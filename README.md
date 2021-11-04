@@ -1,7 +1,7 @@
 # Software Developer
 
 I am a software developer, in search of constant learning, to always be evolving not only personally but technically.
-I have a special affection for the backend but I continue the search to become as complete as possible. Full Stack Dev.
+I have a special affection for the backend but I continue the search to become as complete as possible. Full Stack Dev Jr.
 
 <a target="_blank" href="https://www.linkedin.com/in/mario-camelo/">
   <img align="left" alt="LinkdeIN" width="50px" src="https://github.com/mariuo/assets/blob/main/others/linkedin.jpg" />
