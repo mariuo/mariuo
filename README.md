@@ -18,9 +18,9 @@ I have a special affection for the backend but I continue the search to become a
 &nbsp;
 
 <div align="center">
-  <a href="https://github.com/HenriquedaFonte">
+  <a href="https://github.com/mariuo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenriquedaFonte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquedaFonte&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariuo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## tech stacks
