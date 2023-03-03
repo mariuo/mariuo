@@ -15,7 +15,8 @@ I have a special affection for the backend but I continue the search to become a
 <a href="https://discordapp.com/users/MCamelo#6133" target="_blank">
   <img src="https://img.shields.io/badge/Discord-05122A?style=flat&logo=discord" height="25">
 </a>
-&nbsp;
+</br>
+</br>
 
 <div align="center">
   <a href="https://github.com/mariuo">
