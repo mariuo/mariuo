@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=300&lines=Software++Developer++++++++++)](https://git.io/typing-svg)
 # Software Developer
 
 I am a software developer, in search of constant learning, to always be evolving not only personally but technically.
@@ -21,7 +22,6 @@ I have a special affection for the backend but I continue the search to become a
 <div align="center">
   <a href="https://github.com/mariuo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mariuo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariuo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## tech stacks
@@ -29,9 +29,11 @@ I have a special affection for the backend but I continue the search to become a
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/linux-1.svg"> 
-  
-  
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/linux-tux-1.svg"> 
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/apache-maven-1.svg">  
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
